@@ -15,6 +15,7 @@ It demonstrates an **end-to-end data analytics workflow**:
 
 ## 🖼️ Dashboard Preview
 
+https://github.com/himanshi-manral/customer_behavior_analysis/blob/main/dashboard_ss.jpeg
 
 ---
 
@@ -86,9 +87,3 @@ Interactive visuals:
 - 📢 Target high-value customers  
 - ⭐ Highlight top-rated products  
 
----
-
-
-
-
-## 📂 Project Structure
