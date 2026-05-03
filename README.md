@@ -1,11 +1,4 @@
 # 📊 Customer Shopping Behavior Analysis
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-MS%20SQL%20Server-red?logo=microsoftsqlserver)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ---
 
 ## 🔍 Overview
@@ -22,7 +15,6 @@ It demonstrates an **end-to-end data analytics workflow**:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.gif)
 
 ---
 
@@ -95,5 +87,8 @@ Interactive visuals:
 - ⭐ Highlight top-rated products  
 
 ---
+
+
+
 
 ## 📂 Project Structure
