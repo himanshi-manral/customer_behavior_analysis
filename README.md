@@ -87,3 +87,10 @@ Interactive visuals:
 - 📢 Target high-value customers  
 - ⭐ Highlight top-rated products  
 
+---
+## 📁 Files Included
+- `customer_behavior_dashboard.pbix`
+- `customer_shopping_behavior_analysis.ipynb`
+- `customer_shopping_behavior_analysis.sql`
+- `snapshot_of_dashboard`
+
