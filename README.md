@@ -15,7 +15,8 @@ It demonstrates an **end-to-end data analytics workflow**:
 
 ## 🖼️ Dashboard Preview
 
-https://github.com/himanshi-manral/customer_behavior_analysis/blob/main/dashboard_ss.jpeg
+
+https://github.com/himanshi-manral/customer_shopping_behavior_analysis/blob/main/snapshot_of_dashboard.jpeg
 
 ---
 
